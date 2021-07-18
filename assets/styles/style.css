@@ -1,0 +1,12 @@
+p {
+  color: yellow;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  font-stretch: narrower;
+  background-color: coral;
+}
+
+h2 {
+  color: thistle;
+}
