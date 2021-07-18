@@ -10,3 +10,23 @@ p {
 h2 {
   color: thistle;
 }
+#p2 {
+  color: blue;
+}
+.grMark {
+  background-color: green;
+  font-style: inherit;
+}
+.smallFontP {
+  font-size: xx-small;
+}
+.Div1 {
+  background-color: blue;
+  padding-top: 1px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  margin-right: 1px;
+}
+.Div2 {
+  background-attachment: local;
+}
